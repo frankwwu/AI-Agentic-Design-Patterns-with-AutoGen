@@ -1,8 +1,8 @@
 # 5. Coding and Financial Analysis
 
-![](videoframe_780.png)
+![](Slides/videoframe_780.png)
 
 ---
 
-![](videoframe_71257.png)
+![](Slides/videoframe_71257.png)
 
